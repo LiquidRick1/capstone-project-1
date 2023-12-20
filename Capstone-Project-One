@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Resume</title>
+    </head>
+
+    <body>
+        <h1>My Resume</h1>
+        <h2>Brought To You By Ty</h2>
+        <hr />
+        <h2>Summary</h2>
+        <h3><p>This is the beginning of my Capstone Project Porfolio.
+            So far, this journey has been tough, but at the same time extremely educating!
+            i dont think theres been a single time in my life where ive absorbed so much fresh knowledge at one point in time.</p></h3>
+        <br />
+        <h2>Education</h2>
+        <ul>
+            <li>HighSchool Diploma</li>
+            <li>G.E.D</li>
+        </ul>
+        <br />
+        <h2>Work Experience</h2>
+        <ul>
+            <li>Professional Dancer</li>
+            <p>As a Professional Dancer, i was my own employer.
+                it was my career from the ages of 18 to 22. My responsibilities were very easily just to dance for the
+                people who requested my talent, wether it was for; a live event, a music video, or promoting a local business</p>
+            <li>CSR</li>
+            <p>While i was a Costumer Service Representative, i was employed by Walgrees.
+                I held this job for a short period of time. just little under a year.
+                my responsibilities were to greet and cash out customers while maintaining upstanding customer service.</p>
+            <li>MSR</li>
+            <p>This is my current job as Member Service Representative, while being employed by Planet Fitness.
+                Ive beem employed currently for the past 10 months. Here, my responsibilities are to greet members,
+                while maintaining the cleanleness of the facility.</p>
+        </ul>
+        <h2>Skills</h2>
+        <ul>
+            <li>Dancer</li>
+            <li>Pianist</li>
+            <li>Singer</li>
+            <li>Coder</li>           
+        </ul>
+        <h2>Awards</h2>
+        <ul>
+            <li>Banking Certified</li>
+            <li>Food Safety Certified</li>
+            <li>Iron Cadet</li>
+            <li>Most Valued Cadet</li>
+            <li>President of Jobs for Montana Government</li>
+        </ul>
+        <hr />
+        <a href="about.html">My hobbies</a>
+        <a href="contact.html">Contact me</a>
+        <footer>
+            <p>@2023 Ty Graham</p>
+        </footer>
+    </body>
+</html>
